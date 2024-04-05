@@ -1,6 +1,9 @@
 {
+	"description": "Dies ist eine einfache To-Do-App, die Inlang in einer realen Anwendung demonstriert.",
 	"app": {
+		"today": "Heute, {date}",
 		"nrOfTodos": "{count} Aufgaben",
+		"markAsDone": "als erledigt markieren",
 		"markAsIncomplete": "Als unvollständig Aldwin",
 		"deleteTodo": "Löschen"
 	},
