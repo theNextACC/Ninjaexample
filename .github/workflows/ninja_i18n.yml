@@ -21,5 +21,4 @@ jobs:
         id: ninja-i18n
         uses: opral/ninja-i18n-action@main
         env:
-          GITHUB_TOKEN: ${{ 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 }}
-          
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
